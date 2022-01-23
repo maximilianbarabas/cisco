@@ -32,8 +32,8 @@ ip dhcp pool (név)
 network  (mindenképp 0 végződés, KELL MASZK!)
 default-router (csak ip)
 dns-server
-service dhcp
 domain-name (pl. suli.lan)
+service dhcp
 
 Több Vlan:
 
